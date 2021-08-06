@@ -1,3 +1,5 @@
+https://simplestaticcarsum.vercel.app/
+
 Use simply static to generate static websites from wordpress
 
 https://wordpress.org/plugins/simply-static/
